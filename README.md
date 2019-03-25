@@ -10,7 +10,7 @@ You should have access to a database called `dcc`, and within it a collection ca
 
 * Displays a list of all players and their position (QB, WR, RB etc.)
 * Allows users to search for a player within the list by name or position
-* Allows users to view any game logs for a selected player in the list
+* Allows users to view game logs for a selected player in the list
 
 
 ## Code
