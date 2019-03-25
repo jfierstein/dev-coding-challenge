@@ -15,7 +15,8 @@ You should have access to a database called `dcc`, and within it a collection ca
 Bonus:
 * Add support for paging and sorting the list of players
 * Retain filtering/paging/sorting options through page refreshes
-* Dockerize your application
+* Containerize your application
+* Host your app somewhere (AWS, Azure, GCP etc.)
 
 ## Code
 This is a full-stack Javscript excercise (unless otherwise instructed). If any required technologies were specified in the email you received, please make sure to incorporate those in your application.
@@ -32,5 +33,4 @@ __You have 48 hours from receipt of this document to complete the above requirem
 * Make it look good, do your best to impress us, and be creative
 * Expect us to pull your code and test it
 * Form is just as important as function (if your app works but your code is sloppy, it can be just as bad)
-* Bonus points for hosting your app somewhere (AWS, Azure, GCP etc.)
 
