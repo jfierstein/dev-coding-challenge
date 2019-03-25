@@ -20,7 +20,8 @@ This is a full-stack Javscript excercise (unless otherwise instructed). If any r
 * Push it up to a public git repository. Please do not delete your code until we have had the chance to pull it.
 * Send us the URL to your repository.
 
-You have 48 hours from receipt of this document to complete the above requirements.
+## Deadline
+__You have 48 hours from receipt of this document to complete the above requirements.__
 
 ## Hints
 
