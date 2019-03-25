@@ -4,7 +4,7 @@ Welcome to the developer coding challenge! This is a weekend coding exercise int
 ## The Challenge
 Provided below is a read-only connection string to a MongoDB instance.
 
-mongodb://dcc-user:d3v3l0p3rz!@dcc-cluster-shard-00-00-ofmz0.mongodb.net:27017,dcc-cluster-shard-00-01-ofmz0.mongodb.net:27017,dcc-cluster-shard-00-02-ofmz0.mongodb.net:27017/admin?readPreference=primary&ssl=true
+`mongodb://dcc-user:d3v3l0p3rz!@dcc-cluster-shard-00-00-ofmz0.mongodb.net:27017,dcc-cluster-shard-00-01-ofmz0.mongodb.net:27017,dcc-cluster-shard-00-02-ofmz0.mongodb.net:27017/admin?readPreference=primary&ssl=true`
 
 You should have access to a database called `dcc`, and within it a collection called `players`. Using the data in the `players` collection, we would like you to build a web application that:
 
