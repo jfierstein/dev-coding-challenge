@@ -12,6 +12,10 @@ You should have access to a database called `dcc`, and within it a collection ca
 * Allows users to search for a player within the list by name or position
 * Allows users to view game logs for a selected player in the list
 
+Bonus:
+* Add support for paging and sorting the list of players
+* Retain filtering/paging/sorting options through page refreshes
+* Dockerize your application
 
 ## Code
 This is a full-stack Javscript excercise (unless otherwise instructed). If any required technologies were specified in the email you received, please make sure to incorporate those in your application.
