@@ -25,7 +25,7 @@ __You have 48 hours from receipt of this document to complete the above requirem
 
 ## Hints
 
-* Make it look good, do your best to impress us and be creative
+* Make it look good, do your best to impress us, and be creative
 * Expect us to pull your code and test it
 * Form is just as important as function (if your app works but your code is sloppy, it can be just as bad)
 * Bonus points for hosting your app somewhere (AWS, Azure, GCP etc.)
